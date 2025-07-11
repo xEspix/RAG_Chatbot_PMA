@@ -1,4 +1,4 @@
-# RAG-Based Chatbot for AI Internship QA
+# RAG-Based Chatbot
 
 This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed to answer questions about an AI internship program. Leveraging a combination of document ingestion, vector embeddings, and conversational memory, the bot provides contextualized, accurate responses and maintains chat history per user.
 
