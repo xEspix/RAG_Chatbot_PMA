@@ -11,11 +11,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 3. [Architecture & Workflow](#architecture--workflow)  
 4. [Prerequisites](#prerequisites)  
 5. [Installation](#installation)  
-6. [Configuration](#configuration)  
-7. [Usage](#usage)  
-8. [Attaching the Workflow Diagram](#attaching-the-workflow-diagram)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
+
 
 ---
 
